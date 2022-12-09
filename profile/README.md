@@ -1,10 +1,3 @@
 ## Network for Digital Old Norse Studies
 
-More Information to follow soon...
-
-<!--
-TODO:
-- short info about the network
-- link to our pages
-- short notes on how to join
--->
+For more information, see our [website](https://network-digital-old-norse-studies.github.io/).
